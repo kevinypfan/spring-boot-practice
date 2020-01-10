@@ -1,0 +1,6 @@
+app:
+    datasource:
+        jdbc-url: jdbc:postgresql://dev.kevins.fun:5432/amigoscodedemo
+        username: postgres
+        password: yp037629701
+        pool-size: 30
